@@ -1,12 +1,12 @@
 {
   "build": {
-    "beforeBuildCommand": "npm run build",
-    "beforeDevCommand": "npm run dev",
-    "devPath": "Users\\Rafay Mustafa\\Documents\\Projects\\Web-Calculator\\ui",
-    "distDir": "Users\\Rafay Mustafa\\Documents\\Projects\\Web-Calculator\\ui"
+    "beforeBuildCommand": "",
+    "beforeDevCommand": "",
+    "devPath": "Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui",
+    "distDir": "Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui"
   },
   "package": {
-    "productName": "Web-Calculator",
+    "productName": "Xalculator",
     "version": "0.1.0"
   },
   "tauri": {
@@ -57,7 +57,7 @@
         "fullscreen": false,
         "height": 600,
         "resizable": true,
-        "title": "Web-Calculator",
+        "title": "Xalculator",
         "width": 800
       }
     ]
