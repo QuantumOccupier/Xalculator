@@ -2,8 +2,8 @@
   "build": {
     "beforeBuildCommand": "",
     "beforeDevCommand": "",
-    "devPath": "Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui",
-    "distDir": "Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui"
+    "devPath": "C:\\Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui",
+    "distDir": "C:\\Users\\Rafay Mustafa\\Documents\\Projects\\Xalculator\\ui"
   },
   "package": {
     "productName": "Xalculator",
